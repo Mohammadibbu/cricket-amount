@@ -1,2 +1,3 @@
 # cricket-amount
-https://Mohammadibbu/cricket-amount/
+https://Mohammadibbu.github.io/cricket-amount/
+
